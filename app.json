@@ -14,23 +14,23 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Make a bot from https://t.me/BotFather and enter the token here.",
-      "value": ""
+      "value": "7350485917:AAEGDgrOAuAGuZKj0czmbgwntUOgwd3aaz0"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "20841292"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "58c4e84b9b2506684df6447d3e324dd9"
     },
     "ADMINS": {
       "description": "Your telegram id",
-      "value": "6922271843"
+      "value": "6052303737"
     },
     "HOST": {
       "description": "redis url  Get This Value from http://redislabs.com/try-free ",
-      "value": ""
+      "value": "redis-16221.c81.us-east-1-2.ec2.redns.redis-cloud.com:16221"
     },
     "PORT": {
       "description": "redis url port.",
@@ -38,7 +38,7 @@
     },
     "COOKIE": {
       "description": "get chrome dev tools. ",
-      "value": "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E="
+      "value": "browserid=ZJYqaWZCP7jD57uTWB2MFGT-9uE- vrC6nG07rQm8Wc7cEdLJwP2iayHMPS0=; lang=en; _bid_n=1906e71c3e4a6a41944207; ndus-YVFUYK4teHui_4RhmWcqxSkdxujyrVyRamZcB61n; PANWEB-1; csrfToken=XsCAZcr0LP0mH2vce5B0t3bv; ndut_fmt=D69629668B095ED78E8BD63789C62DDF7AB1393DBD5555851C80B9EE5EC04EC1"
     },
     "PRIVATE_CHAT_ID": {
       "description": "for download video store chat id.",
@@ -46,7 +46,7 @@
     },
     "PASSWORD": {
       "description": "Redis Password, Get This Value from http://redislabs.com/try-free (If you don't know how to obtain these values a complete video tutorial is available here:- https://t.me/botzupdate/5)",
-      "value": ""
+      "value": "D2hE3k3b0j8Kx4MvqpEfMeOw01scc2Jk"
     }
   },
   "addons": [
