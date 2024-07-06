@@ -21,8 +21,8 @@ PASSWORD = "PBX1BOTS"  # redis password
 PRIVATE_CHAT_ID = "-1002010924139"  # CHAT WHERE YOU WANT TO STORE VIDEOS
 
 ###❖➥
-COOKIE = "browserid-09/Muu22YyfpYXePycgyC16RKSomal3nZHAT/KmYDQlEqiQbStjSFFz7M- lang-en TSID-CAHN2U3NnDXcnR7kJkDNzLZdvih1Nao; bid_19072fbdf3653fdcf4207
-ndut_fmt-CFBEFB44CA4FF9B75AFCF5728AF67358C7C5A375FF11283E00F2DA0868380726"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
+COOKIE = "browserid=ZJYqaWZCP7jD57uTWB2MFGT-9uE- vrC6nG07rQm8Wc7cEdLJwP2iayHMPS0=; lang=en; _bid_n=1906e71c3e4a6a41944207; ndus-YVFUYK4teHui_4RhmWcqxSkdxujyrVyRamZcB61n; PANWEB-1; csrfToken=XsCAZcr0LP0mH2vce5B0t3bv; ndut_fmt=D69629668B095ED78E8BD63789C62DDF7AB1393DBD5555851C80B9EE5EC04EC1
+"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 
 ###❖➥
 ADMINS = "6052303737"
